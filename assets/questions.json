@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Dalam pengembangan aplikasi Flutter, apa fungsi utama dari widget StatefulWidget?",
+    "options": [
+      "Membuat widget yang tidak dapat berubah",
+      "Membuat widget yang dapat berubah state-nya selama runtime",
+      "Membuat widget yang hanya dapat digunakan sekali",
+      "Membuat widget tanpa state management"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Manakah dari berikut yang merupakan arsitektur yang umum digunakan dalam pengembangan aplikasi Android?",
+    "options": [
+      "MVVM (Model-View-ViewModel)",
+      "MVC (Model-View-Controller)",
+      "Clean Architecture",
+      "Semua jawaban benar"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Dalam React Native, apakah fungsi dari hooks useEffect?",
+    "options": [
+      "Untuk mengelola state komponen",
+      "Untuk melakukan side effects dalam functional components",
+      "Untuk membuat custom hooks",
+      "Untuk routing antar halaman"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Apa perbedaan utama antara ListView.builder() dan ListView() di Flutter?",
+    "options": [
+      "ListView.builder() lebih lambat dari ListView()",
+      "ListView.builder() menggunakan lazy loading untuk item-itemnya",
+      "ListView() mendukung infinite scrolling",
+      "ListView.builder() tidak mendukung custom scroll behavior"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Dalam pengembangan Android native, apa fungsi dari ViewModel?",
+    "options": [
+      "Menyimpan data UI",
+      "Mengelola UI logic dan menyimpan data yang survive configuration changes",
+      "Mengelola database lokal",
+      "Mengatur navigasi antar fragment"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Manakah dari berikut yang BUKAN merupakan state management solution di Flutter?",
+    "options": [
+      "Provider",
+      "Bloc",
+      "Redux",
+      "AndroidX"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Apa fungsi dari Android Jetpack Navigation Component?",
+    "options": [
+      "Mengelola database",
+      "Mengatur navigasi dan passing data antar fragment",
+      "Mengoptimasi performa aplikasi",
+      "Mengelola background process"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Dalam React Native, apa yang dimaksud dengan Bridge?",
+    "options": [
+      "Library untuk membuat UI",
+      "Mekanisme komunikasi antara kode JavaScript dan native platform",
+      "Tool untuk debugging",
+      "Framework untuk testing"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Apa kegunaan dari Flutter DevTools?",
+    "options": [
+      "Mengcompile kode Dart",
+      "Debugging, profiling, dan analisis performa aplikasi",
+      "Membuat UI design",
+      "Mengatur state management"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Dalam pengembangan Android, apa fungsi dari Kotlin Coroutines?",
+    "options": [
+      "Membuat animasi",
+      "Mengelola database",
+      "Menangani asynchronous programming dengan kode yang lebih simpel",
+      "Mengatur layout UI"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Apa yang dimaksud dengan Hot Reload di Flutter?",
+    "options": [
+      "Fitur untuk restart aplikasi",
+      "Fitur untuk melihat perubahan UI tanpa restart aplikasi",
+      "Tool untuk debugging",
+      "Mekanisme compile time checking"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Dalam React Native, apa fungsi dari Metro bundler?",
+    "options": [
+      "Mengcompile kode native",
+      "Membundle dan mentransform kode JavaScript",
+      "Mengatur routing",
+      "Mengelola state management"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Apa keuntungan menggunakan Room Database di Android?",
+    "options": [
+      "Menyediakan abstraksi untuk SQLite",
+      "Compile-time verification untuk query",
+      "Mudah diintegrasikan dengan LiveData dan Flow",
+      "Semua jawaban benar"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "question": "Dalam Flutter, apa fungsi dari widget SafeArea?",
+    "options": [
+      "Mengamankan data aplikasi",
+      "Menghindari overflow pada UI",
+      "Menyesuaikan konten agar tidak tertutup notch atau system UI",
+      "Mengenkripsi local storage"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Apa yang dimaksud dengan Code Splitting dalam React Native?",
+    "options": [
+      "Membagi kode menjadi beberapa file",
+      "Teknik untuk memuat kode secara lazy/dynamic",
+      "Metode untuk mengorganisir komponen",
+      "Cara untuk memisahkan logic dan UI"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Dalam pengembangan Android, apa fungsi dari WorkManager?",
+    "options": [
+      "Mengelola UI thread",
+      "Mengatur background tasks yang perlu dijadwalkan",
+      "Mengatur navigasi",
+      "Mengelola database"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Apa perbedaan antara const dan final dalam Dart/Flutter?",
+    "options": [
+      "Tidak ada perbedaan",
+      "const untuk runtime constants, final untuk compile-time constants",
+      "const untuk compile-time constants, final untuk runtime constants",
+      "const hanya untuk primitive types"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Dalam React Native, apa fungsi dari useCallback hook?",
+    "options": [
+      "Membuat state baru",
+      "Memoize functions untuk optimasi performa",
+      "Mengatur efek samping",
+      "Membuat custom hooks"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Apa fungsi dari ProGuard dalam pengembangan Android?",
+    "options": [
+      "Mengoptimasi dan mengobfuskasi kode",
+      "Mengelola dependency",
+      "Mengatur build variant",
+      "Mengkonfigurasi gradle"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Dalam Flutter, apa yang dimaksud dengan Platform Channels?",
+    "options": [
+      "Kanal komunikasi antar widget",
+      "Mekanisme untuk komunikasi antara kode Dart dan platform native",
+      "Channel untuk state management",
+      "System untuk routing"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
